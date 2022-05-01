@@ -1,0 +1,102 @@
+*{
+	width:100%;
+	font-size:12pt;
+	font-family:sans-serif;
+	background:white;
+	color:black;
+	text-align:left;
+	margin:0px;
+	padding:0px;
+	display:block;
+	top:0%;
+	height:auto;
+	opacity:1;
+	border:none;
+	text-shadow:none;
+	border:none;
+	font-weight:normal;
+}
+body {
+	font-family:"Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	font-size:12pt;
+	background:white;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 12pt;
+    }
+    h2{
+        font-family: 'Times New Roman', Times, serif;
+        color: black;
+        font-size: 12pt; 
+    }
+    article{
+        width:100%;
+        justify-content:space-between;
+        overflow:auto;
+    }
+    article > section{
+        border: none;
+        background-color:white;
+        opacity:0.9;
+    }
+    nav {
+        width:100%;
+        height:auto;
+        background-color:white;
+        text-align:left;
+        clear:both;
+        float:left;  
+    }
+    header{
+        width:100%;
+        top:0%;
+        color:black;
+        height:auto;
+        background-color:white;
+        opacity:0.8;
+        text-align:center;
+    }
+    section{
+        opacity:.8;
+        background:white;
+    }
+    summary{
+        color: black;
+        font-size:12pt;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    aside {
+        background: white;
+        color: black;
+        text-align: center;
+        font-size: 12pt;
+        float: right;
+    }
+    style{
+        display: none;
+    }
+    footer {
+        background-color: white;
+        color: black;
+        text-align: right;
+        font-size: 12pt;
+        opacity:.8;
+    }
+    img{
+        display: none;
+    }
+    link{
+        text-decoration: underline;
+        color: black;
+    }
+    a:link, a:visited, a:hover,a:active{
+        color:black;
+    }
+    aside ul li a:hover, aside ul li a:active{
+        color:black;
+    }
+    script  {
+        display:none;
+    }
